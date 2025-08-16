@@ -1,0 +1,21 @@
+# /hft_simulator_project
+# ├── hft_simulator/
+# │   ├── __init__.py
+# │   ├── core/
+# │   │   ├── __init__.py
+# │   │   ├── order.py
+# │   │   └── order_book.py
+# │   ├── market/
+# │   │   ├── __init__.py
+# │   │   └── environment.py
+# │   ├── agents/
+# │   │   ├── __init__.py
+# │   │   ├── base_agent.py
+# │   │   ├── market_maker.py
+# │   │   ├── random_trader.py
+# │   │   └── stoikov_market_maker.py
+# │   └── utils/
+# │       ├── __init__.py
+# │       └── logger.py
+# ├── config.py
+# └── main.py
